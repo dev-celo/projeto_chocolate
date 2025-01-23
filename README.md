@@ -340,3 +340,82 @@ Proporcionar um excelente serviço de pós-venda que reforce a conexão emociona
 4. **Semana 7-8**: Testes de usabilidade e ajustes de segurança.
 5. **Semana 9**: Lançamento da versão beta e testes com usuários.
 6. **Semana 10**: Ajustes finais e lançamento oficial.
+
+
+# MVP
+
+## Matéria prima descritivo
+
+### Origem das Amêndoas de Cacau
+
+- Produção própria: No início, a maior parte da matéria-prima virá da sua própria roça, o que ajuda a reduzir custos. A arroba já está garantida sem custo adicional (10 arrobas por ano).
+
+- Aquisição complementar: Caso a demanda aumente, será necessário adquirir amêndoas de terceiros, que estão no mercado com preços variando entre R$750 e R$1.000 por arroba.
+ --- Critério de seleção: Apenas cacau de alta qualidade, com fermentação e secagem bem controladas.
+
+### Torragem para Realçar o Sabor
+
+- Sugestão: Invista em caixas de fermentação de madeira com orifícios laterais para permitir a troca de gases, garantindo um sabor mais complexo e reduzindo acidez.
+
+- Monitoramento diário: Mexer as amêndoas regularmente para uniformizar o processo.
+
+- Duração: De 5 a 7 dias dependendo do clima local.
+
+---
+### Secagem Natural
+
+- Secagem ao sol sobre barcaças ou esteiras suspensas com cobertura móvel para proteção contra chuvas, Disponibilidade de estufa sem queima.
+
+- Sugestão: Para obter um cacau mais limpo e com menos impurezas, utilize malhas de secagem com trama fina.
+
+- Duração: 5 a 10 dias até atingir cerca de 7% de umidade (consultar essa umidade).
+
+### Descascamento e Separação dos Nibs
+
+- Processo Artesanal
+
+- Após a torra, as amêndoas podem ser quebradas manualmente ou com auxílio de um triturador básico.
+
+- Sugestão: Use peneiras para separar os nibs das cascas. Essa etapa é crítica para evitar resíduos no chocolate final.
+ 
+- Alternativa futura: Se a demanda crescer, considere um equipamento como o "winnower", que utiliza um sistema de sucção para agilizar a separação.
+
+---
+## **1. Matéria-Prima e Fermentação**
+
+### **Custos de Materiais e Equipamentos para Fermentação**
+
+- **Reforma de Caixa de Fermentação na Estufa:**
+  - **Custo da mão de obra do motoqueiro:** **R$700**.
+  - **Madeira disponível na propriedade:** Sem custo adicional.
+  - **Total:** **R$700**.
+
+- **Pá de Madeira ou Aço Inox para Mistura:**
+  - **Quantidade:** 1 unidade.
+  - **Custo unitário:** **R$100**.
+  - **Total:** **R$100**.
+
+- **Termômetro de Fermentação:**
+  - Ferramenta essencial para monitorar a temperatura das amêndoas durante o processo.
+  - **Quantidade:** 1 unidade.
+  - **Custo unitário:** **R$150**.
+  - **Total:** **R$150**.
+
+---
+
+### **Custos de Materiais e Manutenção para Secagem**
+
+- **Manutenção da Grade de Secagem na Estufa:**
+  - **Custo estimado:** **R$300**.
+  - **Total:** **R$300**.
+  
+---
+
+### **Custo Total para Fermentação e Secagem Ajustado**
+
+- **Reforma das caixas de fermentação:** R$700.
+- **Pá para mistura:** R$100.
+- **Termômetro:** R$150.
+- **Manutenção da grade de secagem:** R$300.
+
+- **Total Geral:** **R$1.250**.
