@@ -419,3 +419,47 @@ Proporcionar um excelente serviço de pós-venda que reforce a conexão emociona
 - **Manutenção da grade de secagem:** R$300.
 
 - **Total Geral:** **R$1.250**.
+
+---
+
+## Passo 2: Definição de Equipamentos e Métodos de Produção
+
+### **2.1 - Torra das Amêndoas**
+- **Temperatura Ideal para Torra:**
+  - Faixa definida: **110°C a 150°C**, priorizando uma torra intensa para destacar sabores marcantes e "dark".
+  - Equipamento inicial: Forno convencional com controle de temperatura ajustável entre 100°C e 200°C.
+    - **Orçamento para compra:** **R$1.500**.
+  - **Equipamento alternativo:** Caso haja opção econômica no mercado, podemos revisar.
+
+---
+
+### **2.2 - Descascamento das Amêndoas**
+- **Método Inicial:**
+  - O processo será **artesanal**, utilizando peneiras e separação manual para garantir qualidade e agregar valor à marca.
+  - Equipamentos especializados serão considerados em etapas futuras, conforme aumento de produção.
+
+---
+
+### **2.3 - Melanger**
+- **Função:** Refinar e conchar o chocolate, garantindo textura homogênea e sabores complexos.
+- **Orçamento inicial:** **R$8.000**.
+- **Justificativa:** Investimento essencial para garantir a qualidade gourmet do chocolate.
+
+---
+
+### **2.4 - Embalagem**
+- **Método Inicial:**
+  - Embalagem manual com atenção ao design e acabamento artesanal.
+  - Utilização de papel kraft com amarração de corda de sisal para reforçar a identidade rústica e premium da marca.
+  - **Equipamento para embalagem automática:** Não será adquirido inicialmente, priorizando métodos manuais.
+
+---
+
+## **Resumo de Investimentos Definidos no Passo 2**
+
+1. **Forno para Torra**: **R$1.500**.
+2. **Melanger**: **R$8.000**.
+3. **Descascamento Manual**: Sem custo adicional.
+4. **Embalagem Manual**: Sem custo adicional inicial.
+
+**Total do Investimento no Passo 2:** **R$9.500**.
