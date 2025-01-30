@@ -342,124 +342,137 @@ Proporcionar um excelente serviço de pós-venda que reforce a conexão emociona
 6. **Semana 10**: Ajustes finais e lançamento oficial.
 
 
-# MVP
-
-## Matéria prima descritivo
-
-### Origem das Amêndoas de Cacau
-
-- Produção própria: No início, a maior parte da matéria-prima virá da sua própria roça, o que ajuda a reduzir custos. A arroba já está garantida sem custo adicional (10 arrobas por ano).
-
-- Aquisição complementar: Caso a demanda aumente, será necessário adquirir amêndoas de terceiros, que estão no mercado com preços variando entre R$750 e R$1.000 por arroba.
- --- Critério de seleção: Apenas cacau de alta qualidade, com fermentação e secagem bem controladas.
-
-### Torragem para Realçar o Sabor
-
-- Sugestão: Invista em caixas de fermentação de madeira com orifícios laterais para permitir a troca de gases, garantindo um sabor mais complexo e reduzindo acidez.
-
-- Monitoramento diário: Mexer as amêndoas regularmente para uniformizar o processo.
-
-- Duração: De 5 a 7 dias dependendo do clima local.
-
----
-### Secagem Natural
-
-- Secagem ao sol sobre barcaças ou esteiras suspensas com cobertura móvel para proteção contra chuvas, Disponibilidade de estufa sem queima.
-
-- Sugestão: Para obter um cacau mais limpo e com menos impurezas, utilize malhas de secagem com trama fina.
-
-- Duração: 5 a 10 dias até atingir cerca de 7% de umidade (consultar essa umidade).
-
-### Descascamento e Separação dos Nibs
-
-- Processo Artesanal
-
-- Após a torra, as amêndoas podem ser quebradas manualmente ou com auxílio de um triturador básico.
-
-- Sugestão: Use peneiras para separar os nibs das cascas. Essa etapa é crítica para evitar resíduos no chocolate final.
- 
-- Alternativa futura: Se a demanda crescer, considere um equipamento como o "winnower", que utiliza um sistema de sucção para agilizar a separação.
-
----
-## **1. Matéria-Prima e Fermentação**
-
-### **Custos de Materiais e Equipamentos para Fermentação**
-
-- **Reforma de Caixa de Fermentação na Estufa:**
-  - **Custo da mão de obra do motoqueiro:** **R$700**.
-  - **Madeira disponível na propriedade:** Sem custo adicional.
-  - **Total:** **R$700**.
-
-- **Pá de Madeira ou Aço Inox para Mistura:**
-  - **Quantidade:** 1 unidade.
-  - **Custo unitário:** **R$100**.
-  - **Total:** **R$100**.
-
-- **Termômetro de Fermentação:**
-  - Ferramenta essencial para monitorar a temperatura das amêndoas durante o processo.
-  - **Quantidade:** 1 unidade.
-  - **Custo unitário:** **R$150**.
-  - **Total:** **R$150**.
+# MVP: Fábrica de Chocolate Artesanal
 
 ---
 
-### **Custos de Materiais e Manutenção para Secagem**
+## **1. Matéria-Prima e Processamento Inicial**
 
-- **Manutenção da Grade de Secagem na Estufa:**
-  - **Custo estimado:** **R$300**.
-  - **Total:** **R$300**.
-  
----
-
-### **Custo Total para Fermentação e Secagem Ajustado**
-
-- **Reforma das caixas de fermentação:** R$700.
-- **Pá para mistura:** R$100.
-- **Termômetro:** R$150.
-- **Manutenção da grade de secagem:** R$300.
-
-- **Total Geral:** **R$1.250**.
+### **Origem das Amêndoas de Cacau**
+- **Produção própria:** 
+  - 10 arrobas por ano, sem custo adicional.
+  - Matéria-prima inicial garantida.
+- **Aquisição complementar (futuro):**
+  - Preço de mercado: R$750 a R$1.000 por arroba.
+  - Critério de seleção: Cacau de alta qualidade, com fermentação e secagem controladas.
 
 ---
 
-## Passo 2: Definição de Equipamentos e Métodos de Produção
-
-### **2.1 - Torra das Amêndoas**
-- **Temperatura Ideal para Torra:**
-  - Faixa definida: **110°C a 150°C**, priorizando uma torra intensa para destacar sabores marcantes e "dark".
-  - Equipamento inicial: Forno convencional com controle de temperatura ajustável entre 100°C e 200°C.
-    - **Orçamento para compra:** **R$1.500**.
-  - **Equipamento alternativo:** Caso haja opção econômica no mercado, podemos revisar.
-
----
-
-### **2.2 - Descascamento das Amêndoas**
-- **Método Inicial:**
-  - O processo será **artesanal**, utilizando peneiras e separação manual para garantir qualidade e agregar valor à marca.
-  - Equipamentos especializados serão considerados em etapas futuras, conforme aumento de produção.
+### **Fermentação**
+- **Caixas de fermentação:**
+  - Reforma de caixas de madeira com orifícios laterais para troca de gases.
+  - Custo da mão de obra: **R$700**.
+  - Madeira disponível na propriedade: Sem custo adicional.
+- **Monitoramento:**
+  - Mexer as amêndoas diariamente para uniformizar o processo.
+  - Duração: 5 a 7 dias, dependendo do clima.
+- **Equipamentos necessários:**
+  - Pá de madeira ou aço inox: **R$100**.
+  - Termômetro de fermentação: **R$150**.
 
 ---
 
-### **2.3 - Melanger**
-- **Função:** Refinar e conchar o chocolate, garantindo textura homogênea e sabores complexos.
-- **Orçamento inicial:** **R$8.000**.
-- **Justificativa:** Investimento essencial para garantir a qualidade gourmet do chocolate.
+### **Secagem**
+- **Método:**
+  - Secagem ao sol em barcaças ou esteiras suspensas com cobertura móvel.
+  - Uso de malhas de secagem com trama fina para reduzir impurezas.
+  - Duração: 5 a 10 dias, até atingir 7% de umidade.
+- **Manutenção da grade de secagem:**
+  - Custo estimado: **R$300**.
 
 ---
 
-### **2.4 - Embalagem**
-- **Método Inicial:**
-  - Embalagem manual com atenção ao design e acabamento artesanal.
-  - Utilização de papel kraft com amarração de corda de sisal para reforçar a identidade rústica e premium da marca.
-  - **Equipamento para embalagem automática:** Não será adquirido inicialmente, priorizando métodos manuais.
+### **Descascamento e Separação dos Nibs**
+- **Processo inicial:**
+  - Quebra manual das amêndoas após a torra.
+  - Uso de peneiras para separar nibs das cascas.
+- **Alternativa futura:**
+  - Equipamento "winnower" para agilizar a separação (investimento posterior).
 
 ---
 
-## **Resumo de Investimentos Definidos no Passo 2**
+## **2. Equipamentos e Métodos de Produção**
 
-1. **Forno para Torra**: **R$1.500**.
-2. **Melanger**: **R$8.000**.
-3. **Descascamento Manual**: Sem custo adicional.
-4. **Embalagem Manual**: Sem custo adicional inicial.
+### **Torra das Amêndoas**
+- **Temperatura ideal:** 110°C a 150°C (torra intensa para sabores marcantes).
+- **Equipamento inicial:** Forno convencional com controle de temperatura.
+  - Orçamento: **R$1.500**.
 
-**Total do Investimento no Passo 2:** **R$9.500**.
+---
+
+### **Refino e Conchagem**
+- **Melanger:**
+  - Função: Refinar e conchar o chocolate para textura homogênea e sabores complexos.
+  - Orçamento: **R$8.000**.
+  - Justificativa: Essencial para qualidade gourmet.
+
+---
+
+### **Embalagem**
+- **Método inicial:**
+  - Embalagem manual com papel kraft e corda de sisal.
+  - Design rústico e premium para reforçar a identidade da marca.
+- **Equipamento automático:** Não será adquirido inicialmente.
+
+---
+
+## **3. Reforma da Casa para Produção**
+
+### **Prioridades**
+- **Foco:** Cozinha e sala.
+- **Estilo:** Rústico e ecológico.
+- **Isolamento térmico:** Forro de isopor com massa corrida.
+
+---
+
+### **Materiais e Custos Estimados**
+- **Paredes:**
+  - Tinta de barro: **R$200**.
+- **Piso:**
+  - Cimento queimado ou similar: **R$300**.
+  - Alternativa: Madeira disponível na propriedade.
+- **Forro:**
+  - Isopor e massa corrida: **R$200**.
+- **Mão de obra:** **R$300**.
+
+---
+
+### **Cronograma de 3 Meses**
+1. **Mês 1:** Planejamento e compra de materiais.
+2. **Mês 2:** Aplicação do forro, piso e início da pintura.
+3. **Mês 3:** Finalização da pintura e organização do espaço.
+
+---
+
+### **Custo Total da Reforma**
+- **Materiais:** R$700.
+- **Mão de obra:** R$300.
+- **Total:** **R$1.000**.
+
+---
+
+## **4. Resumo de Investimentos**
+
+### **Fermentação e Secagem**
+- Reforma das caixas: R$700.
+- Pá para mistura: R$100.
+- Termômetro: R$150.
+- Manutenção da grade de secagem: R$300.
+- **Total:** **R$1.250**.
+
+### **Equipamentos de Produção**
+- Forno para torra: R$1.500.
+- Melanger: R$8.000.
+- Ar condicionado: R$2.000.
+- Pedra de granizo: R$800.
+- Microondas: R$500.
+- **Total:** **R$12.800**.
+
+### **Reforma da Casa**
+- **Total:** **R$1.000**.
+
+---
+
+## **5. Considerações Finais**
+- **Investimento Total Inicial:** **R$15.050**.
+- **Próximos passos:** Aumentar a produção e adquirir equipamentos especializados conforme a demanda crescer.
